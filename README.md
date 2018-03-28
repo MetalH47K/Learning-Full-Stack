@@ -16,4 +16,5 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "CSS Display and Positioning" 28/03/2018
 
+> Completed "Color" 28/03/2018
 
