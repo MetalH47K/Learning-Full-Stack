@@ -1,4 +1,4 @@
-# Learning-HTML-CSS
+# Learning Full Stack Web Development
 
 My Journey to Becoming a Full Stack Developer.
 
