@@ -9,4 +9,6 @@ Completed HTML course 22/03/2018
 
 CSS
 Completed "Selectors and Visual Rules" 28/03/2018
+Completed "The Box Model" 28/03/2018
+
 
