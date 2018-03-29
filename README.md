@@ -20,3 +20,5 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "Typography" 28/03/2018
 
+> Completed "CSS Grid" 29/03/2018
+
