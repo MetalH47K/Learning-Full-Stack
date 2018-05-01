@@ -27,3 +27,6 @@ I have always played around with code throughout my IT career. Now its time to r
 > Completed "Create a Sass Stylesheet" 29/03/2018
 
 > Completed "Mixins and the & Selector" 05/04/2018
+
+> Completed "Functions and Operations" 01/05/2018 (Holiday for 3 weeks in April)
+
