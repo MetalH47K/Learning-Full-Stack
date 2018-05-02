@@ -35,3 +35,5 @@ I have always played around with code throughout my IT career. Now its time to r
 **JAVASCRIPT** - 01/05/2018 to XX/XX/XXXX (XX Days to Complete)
 
 > Completed "Learn JavaScript: Introduction" 01/05/2018
+
+> Completed "Learn JavaScript: Control Flow" 02/05/2018
