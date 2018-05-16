@@ -37,3 +37,6 @@ I have always played around with code throughout my IT career. Now its time to r
 > Completed "Learn JavaScript: Introduction" 01/05/2018
 
 > Completed "Learn JavaScript: Control Flow" 02/05/2018
+
+> Completed "Learn JavaScript: Functions" 16/05/2018 (Completed this twice to really understand the concept)
+
