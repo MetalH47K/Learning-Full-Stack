@@ -49,3 +49,5 @@ I have always played around with code throughout my IT career. Now its time to r
 > Completed "Basic Git Workflow" 17/05/2018
 
 > Completed "How to Backtrack in Git" 17/05/2018
+
+> Completed "Viewing and Changing the File System" 22/05/2018
