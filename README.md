@@ -8,7 +8,7 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed HTML course 22/03/2018
 
-**CSS** - 28/03/2018 to 29/03/2018 (1 Day to Complete)
+**CSS** - 28/03/2018 to 29/03/2018 (2 Day to Complete)
 
 > Completed "Selectors and Visual Rules" 28/03/2018
 
@@ -54,10 +54,14 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "How to Backtrack in Git" 17/05/2018
 
-**Linux Command Line** - 17/05/2018 to XX/XX/XXXX (XX Days to Complete)
+**Linux Command Line** - 17/05/2018 to 22/05/2018 (5 Days to Complete)
 
 > Completed "Navigating the File System" 17/05/2018
 
 > Completed "Viewing and Changing the File System" 22/05/2018
 
 > Completed "Redirecting Input and Output" 22/05/2018
+
+> Completed "Configuring the Environment" 22/05/2018
+
+
