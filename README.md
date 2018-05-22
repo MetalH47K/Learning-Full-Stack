@@ -50,4 +50,8 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "How to Backtrack in Git" 17/05/2018
 
+**Linux Command Line** - 17/05/2018 to XX/XX/XXXX (XX Days to Complete)
+
+> Completed "Navigating the File System" 17/05/2018
+
 > Completed "Viewing and Changing the File System" 22/05/2018
