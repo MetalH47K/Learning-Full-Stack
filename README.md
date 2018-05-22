@@ -59,3 +59,5 @@ I have always played around with code throughout my IT career. Now its time to r
 > Completed "Navigating the File System" 17/05/2018
 
 > Completed "Viewing and Changing the File System" 22/05/2018
+
+> Completed "Redirecting Input and Output" 22/05/2018
