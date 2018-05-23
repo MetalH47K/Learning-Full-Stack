@@ -1,0 +1,27 @@
+PATH
+
+What happens when you type this command?
+
+$ echo $PATH
+
+/home/ccuser/.gem/ruby/2.0.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+PATH is an environment variable that stores a list of directories separated by a colon. Looking carefully, echo $PATH lists the following directories:
+
+/home/ccuser/.gem/ruby/2.0.0/bin
+/usr/local/sbin
+/usr/local/bin
+/usr/bin
+/usr/sbin
+/sbin
+/bin
+Each directory contains scripts for the command line to execute. The PATH variable simply lists which directories contain scripts.
+
+For example, many commands we've learned are scripts stored in the /bin directory.
+
+/bin/pwd
+This is the script that is executed when you type the pwd command.
+
+/bin/ls
+This is the script that is executed when you type the ls command.
+
+In advanced cases, you can customize the PATH variable when adding scripts of your own.
