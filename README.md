@@ -48,6 +48,8 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "Learn JavaScript: Iterators" 22/05/2018 (Hard concept that I still don't get)
 
+> Completed "Learn JavaScript: Objects" 23/05/2018 (Hard concept that I still don't get - Course was not helpful)
+
 **Git** - 17/05/2018 to XX/XX/XXXX (XX Days to Complete)
 
 > Completed "Basic Git Workflow" 17/05/2018
