@@ -4,6 +4,8 @@ My Journey to Becoming a Full Stack Developer.
 
 I have always played around with code throughout my IT career. Now its time to really get serious and start learning it in detail. I have a good understanding of HTML and Python. I still consider myself a beginner programmer. The plan to to complete this full-stack course from CodeAcademy and move on to other systems. I would like to be a full fledged programmer with all sorts of different languages under my belt. Lets see how this journey plays out. 
 
+**CODEACADEMY COURSE**
+
 **HTML** - 28/02/2018 - 22/03/2018 (23 Days to Complete)
 
 > Completed HTML course 22/03/2018
