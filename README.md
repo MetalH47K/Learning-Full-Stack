@@ -56,6 +56,8 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "Learn JavaScript: Browser Compatibility and Transpilation" 24/05/2018
 
+> Completed "Learn JavaScript: Modules" 24/05/2018 (I think I got this one)
+
 
 
 **Git** - 17/05/2018 to 24/05/2018 (7 Days to Complete)
