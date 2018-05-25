@@ -34,7 +34,7 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "Sustainable SCSS" 01/05/2018
 
-**JAVASCRIPT** - 01/05/2018 to XX/XX/XXXX (XX Days to Complete)
+**JAVASCRIPT** - 01/05/2018 to 25/05/2018 (25 Days to Complete)
 
 > Completed "Learn JavaScript: Introduction" 01/05/2018
 
