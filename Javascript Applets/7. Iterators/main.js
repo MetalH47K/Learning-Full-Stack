@@ -29,3 +29,44 @@ console.log('There are ' + overusedWordsIndex.length + ' overused words: ' + ove
 console.log(`Really appears ${reallyCount} times.`);
 console.log(`Very appears ${veryCount} times.`);
 console.log(`Basically appears ${basicallyCount} times.`);
+
+
+// NEW LEARNING BELOW
+let animals = ['Hen', 'elephant', 'llama', 'leopard', 'ostrich', ' ', 'Whale', 'octopus', 'rabbit', 'lion', 'dog'];
+
+/* 
+let secretMessage = animals.map(function(animals) {
+  return animals[0]
+})
+*/
+
+let secretMessage = animals.map(animals => animals[0])
+
+console.log(secretMessage.join(''));
+
+let bigNumbers = [100, 200, 300, 400, 500];
+
+/* 
+let smallNumbers = bigNumbers.map(function(numbers) {
+  return numbers / 100
+})
+*/
+
+let smallNumbers = bigNumbers.map(numbers => numbers / 100)
+
+// Different Codes:
+let cities = ['Nashville', 'Charlotte', 'Asheville', 'Austin', 'Boulder'];
+
+let nums = [1, 50, 75, 200, 350, 525, 1000];
+
+//  Choose a method that will return undefined
+cities.forEach(city => console.log('Have you visited ' + city + '?'));
+
+// Choose a method that will return a new array
+let longCities = cities.filter(city => city.length > 7);
+
+// Choose a method that will return a new array
+let smallerNums = nums.map(num => num - 5);
+
+// Choose a method that will return a boolean value
+nums.some(num => num < 0);

@@ -1,3 +1,19 @@
+Iterator Documentation
+There are many additional built-in array methods, a complete list of which is on the Mozilla Developer Network.
+
+The documentation for each method contains several sections:
+
+A short definition
+A block with the correct syntax for using the method
+A list of parameters the method accepts or requires
+The return value of the function
+An extended description
+Examples of the method's use
+Polyfill, Specifications, Browser Compatibility
+A list of iterator methods can be found here.
+
+In the instructions below, there are some errors in the code. Use the documentation for a given method to determine the error or fill in a blank to make the code run correctly.
+
 Review: Iterators
 You have learned a number of useful methods in this lesson as well as how to use the JavaScript documentation from the Mozilla Developer Network to discover and understand additional methods. Let's review!
 
