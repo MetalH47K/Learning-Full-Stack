@@ -112,11 +112,16 @@ menu.addDishToCourse('appetizers','Spinach Dip', 8.50);
 menu.addDishToCourse('appetizers','Avacado Egg Rolls', 13.10);
 
 let meal = menu.generateRandomMeal();
-console.log();
 
-if(menu._courses = undefined){
-  console.log(`Help me`);
-}else{
+if (menu._courses = 'undefined') {
+  console.log();
+  console.log(`Help me! Courses Undefined`);
+  console.log();
+} else {
   
 }
+
+console.log(menu)
+
+console.log();
 console.log(meal);
