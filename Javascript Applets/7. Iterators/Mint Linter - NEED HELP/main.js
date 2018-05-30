@@ -6,16 +6,17 @@ let unnecessaryWords = ['extremely', 'literally', 'actually' ];
 
 let storyWords = story.split(' ');
 
+// Reporting on overused words
 let overusedCount = 0
-storyWords.forEach(word => {
-  if (word[word.length-1] === 'really' || word[word.length-1] === 'very' || word[word.length-1] === 'basically') {
-    overusedCount+=1;
-  }
-});
+for (let i = 0; i < storyWords.length; i++) {
+  if (storyWords[i] === 'basically' || storyWords[i] === 'really' || storyWords[i] === 'very') {
+  overusedCount ++
+  } 
+}
 
 let sentences = 0;
-storyWords.forEach(word => {
-  if (word[word.length-1] === '.' || word[word.length-1] === '!') {
+storyWords.forEach(character => {
+  if (character[character.length-1] === '.' || character[character.length-1] === '!') {
     sentences+=1;
   }
 });
