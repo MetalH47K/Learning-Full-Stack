@@ -24,4 +24,6 @@ function displaySpeedRangeStatus() {
   });
 }
 
-displaySpeedRangeStatus();
+displaySpeedRangeStatus(); 
+
+//importation.
