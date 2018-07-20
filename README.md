@@ -60,6 +60,8 @@ I have always played around with code throughout my IT career. Now its time to r
 
 > Completed "Learn JavaScript: Requests" 25/05/2018 (Second part was confusing)
 
+**React.JS** - 05/05/2018 Ongoing -> 20/07/2018 (60 Days and going)
+
 **Git** - 17/05/2018 to 24/05/2018 (7 Days to Complete)
 
 > Completed "Basic Git Workflow" 17/05/2018
